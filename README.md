@@ -13,7 +13,7 @@ src/background.js: Handles background tasks and extension events.
 src/popup.html: Popup UI for user interaction.
 src/popup.js: Logic for the popup interface.
 manifest.json: Extension configuration and permissions.
-images/icons/: Extension icons.
+src/icons/: Extension icons.
 
 Usage
 ---
